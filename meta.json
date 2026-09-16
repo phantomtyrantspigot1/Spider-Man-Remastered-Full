@@ -1,0 +1,23 @@
+{
+  "repo": "spider-man-remastered-full",
+  "product": "Spider-Man Remastered Full",
+  "kind": "game",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "action-game",
+  "topics": [
+    "spiderman-remastered",
+    "open-city-pc",
+    "suit-style-windows",
+    "spiderman-2026",
+    "how-to-install-spiderman",
+    "spiderman-desktop-package",
+    "photo-dof-suite",
+    "district-mission-tools",
+    "insomniac-action-pc",
+    "spiderman-pc-edition"
+  ],
+  "site": "toolix.me"
+}
